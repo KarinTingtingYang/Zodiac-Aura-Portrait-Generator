@@ -1,0 +1,48 @@
+body {
+  font-family: 'Space Mono', monospace;
+  background: #0f0c29; /* Cosmic gradient */
+  background: linear-gradient(to right, #0f0c29, #302b63, #24243e);
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+.container {
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.form {
+  background: rgba(255, 255, 255, 0.1);
+  padding: 20px;
+  border-radius: 10px;
+  margin: 20px 0;
+}
+
+input, select, button {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border: none;
+  border-radius: 5px;
+}
+
+button {
+  background: #9d50bb; /* Purple vibe */
+  color: white;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #6e48aa;
+}
+
+#auraArt {
+  max-width: 100%;
+  border-radius: 10px;
+  margin: 20px 0;
+}
+
+.hidden {
+  display: none;
+}
