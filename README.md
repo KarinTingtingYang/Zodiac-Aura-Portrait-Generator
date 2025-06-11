@@ -41,7 +41,7 @@ This project demonstrates proficiency in full-stack web development, integrating
 
 ## 🛠️ How to Use (Live Demo)
 
-1.  **Visit the Live Demo:** Open [https://your-glitch-project-name.glitch.me](https://your-glitch-project-name.glitch.me) in your browser.
+1.  **Visit the Live Demo:** Open [https://zodiac-portrait.glitch.me](https://zodiac-portrait.glitch.me) in your browser.
 2.  **Enter Your Birth Date:** Use the date picker.
 3.  **Select Your Gender & Vibe:** Choose from the dropdown options.
 4.  **Upload Your Photo:** Click "Upload Your Photo" and select an image file.
